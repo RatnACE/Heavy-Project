@@ -2,7 +2,7 @@
 integration project that is created  during internship at linux world
 # Heavy Project
 
-![Project Logo](project_logo.png) <!-- Replace "project_logo.png" with the actual logo of your project -->
+<!-- Replace "project_logo.png" with the actual logo of your project -->
 
 This is the README file for the "Heavy Project," an integration project that comprises various technologies like machine learning (ML), neural networks, Flutter (for mobile app development), web development, and others. The project brings together different functionalities into one unified application, offering a diverse range of capabilities.
 
@@ -13,7 +13,7 @@ This is the README file for the "Heavy Project," an integration project that com
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Contributing](#contributing)
+
 
 
 ## Introduction
@@ -68,14 +68,3 @@ The Heavy Project boasts the following key features:
 - Web development capabilities for web-based tasks.
 - Computer vision-based image processing tasks.
 
-## Contributing
-
-Contributions to the Heavy Project are welcome! If you have any improvements, bug fixes, or additional features to suggest, feel free to create a pull request or submit an issue.
-
-
-
-## Contact
-
-If you have any questions or need further information, you can contact the project maintainer at [maintainer@example.com](mailto:maintainer@example.com). Feel free to reach out with any queries or feedback!
-
-Thank you for using the Heavy Project! Enjoy exploring the diverse functionalities it offers.
